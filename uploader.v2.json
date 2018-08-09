@@ -389,6 +389,11 @@
             "symbolic_name": "ls_var_spool_clientmq"
         },
         {
+             "command": "/bin/ls -l /var/lib/cni/networks/openshift-sdn",
+             "pattern": [],
+             "symbolic_name": "ls_var_lib_cni_networks_openshift-sdn"
+        },
+        {
             "command": "/bin/ls -lan /",
             "pattern": [],
             "symbolic_name": "ls_osroot"
