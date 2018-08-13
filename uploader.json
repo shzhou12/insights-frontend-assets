@@ -391,7 +391,7 @@
         {
              "command": "/bin/ls -l /var/lib/cni/networks/openshift-sdn",
              "pattern": [],
-             "symbolic_name": "ls_var_lib_cni_networks_openshift-sdn"
+             "symbolic_name": "ls_ocp_cni_openshift_sdn"
         },
         {
             "command": "/bin/ls -lan /",
